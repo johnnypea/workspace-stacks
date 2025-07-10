@@ -1,0 +1,4 @@
+{
+    "server": "https://docker.io",
+    "alias": "dolthub/dolt-sql-server:latest"
+}
